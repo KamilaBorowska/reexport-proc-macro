@@ -2,6 +2,16 @@
 name = "reexport-proc-macro"
 version = "0.1.0"
 authors = ["Konrad Borowski <github@borowski.pw>"]
+repository = "https://github.com/xfix/reexport-proc-macro"
+license = "MIT/Apache-2.0"
+description = "Re-export a procedural macro"
+keywords = ["no_std", "macros"]
+categories = ["no-std", "rust-patterns"]
+documentation = "https://docs.rs/reexport-proc-macro"
+readme = "README.md"
+
+[badges]
+travis-ci = { repository = "xfix/reexport-proc-macro" }
 
 [dev-dependencies]
 enum-map = "0.2.24"
