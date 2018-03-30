@@ -1,0 +1,9 @@
+[package]
+name = "reexport-proc-macro"
+version = "0.1.0"
+authors = ["Konrad Borowski <github@borowski.pw>"]
+
+[dev-dependencies]
+enum-map = "0.2.24"
+enum-map-derive = "0.2.4"
+serde_derive = "1.0.36"
