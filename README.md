@@ -12,5 +12,4 @@ This makes a crate export all serde derives.
 #[macro_use]
 extern crate reexport_proc_macro;
 reexport_proc_macro!(serde_derive);
-# fn main() {}
 ```
