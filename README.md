@@ -1,6 +1,7 @@
 # `reexport-proc-macro`
 
 [![Build Status](https://travis-ci.org/xfix/reexport-proc-macro.svg?branch=master)](https://travis-ci.org/xfix/reexport-proc-macro)
+[![codecov](https://codecov.io/gh/xfix/reexport-proc-macro/branch/master/graph/badge.svg)](https://codecov.io/gh/xfix/reexport-proc-macro)
 
 Allows re-exporting a procedural macro while adding additional public items.
 
