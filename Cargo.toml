@@ -11,11 +11,11 @@ documentation = "https://docs.rs/reexport-proc-macro"
 readme = "README.md"
 
 [badges]
-travis-ci = { repository = "xfix/enum-map" }
-is-it-maintained-issue-resolution = { repository = "xfix/enum-map" }
-is-it-maintained-open-issues = { repository = "xfix/enum-map" }
+travis-ci = { repository = "xfix/reexport-proc-macro" }
+is-it-maintained-issue-resolution = { repository = "xfix/reexport-proc-macro" }
+is-it-maintained-open-issues = { repository = "xfix/reexport-proc-macro" }
 maintenance = { status = "actively-developed" }
-codecov = { repository = "xfix/enum-map" }
+codecov = { repository = "xfix/reexport-proc-macro" }
 
 [dev-dependencies]
 enum-map = "0.2.24"
