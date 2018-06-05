@@ -11,6 +11,7 @@ documentation = "https://docs.rs/reexport-proc-macro"
 readme = "README.md"
 
 [badges]
+gitlab = { repository = "KonradBorowski/reexport-proc-macro" }
 maintenance = { status = "actively-developed" }
 
 [dev-dependencies]
