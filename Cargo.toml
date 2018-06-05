@@ -2,7 +2,7 @@
 name = "reexport-proc-macro"
 version = "1.0.2"
 authors = ["Konrad Borowski <github@borowski.pw>"]
-repository = "https://github.com/xfix/reexport-proc-macro"
+repository = "https://gitlab.com/KonradBorowski/reexport-proc-macro"
 license = "MIT/Apache-2.0"
 description = "Re-export a procedural macro"
 keywords = ["no_std", "macros"]
@@ -11,11 +11,7 @@ documentation = "https://docs.rs/reexport-proc-macro"
 readme = "README.md"
 
 [badges]
-travis-ci = { repository = "xfix/reexport-proc-macro" }
-is-it-maintained-issue-resolution = { repository = "xfix/reexport-proc-macro" }
-is-it-maintained-open-issues = { repository = "xfix/reexport-proc-macro" }
 maintenance = { status = "actively-developed" }
-codecov = { repository = "xfix/reexport-proc-macro" }
 
 [dev-dependencies]
 enum-map = "0.2.24"
