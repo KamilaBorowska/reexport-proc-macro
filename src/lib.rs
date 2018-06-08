@@ -26,6 +26,7 @@ macro_rules! reexport_proc_macro {
         #[macro_use]
         #[allow(unused_imports)]
         extern crate $crate_name;
+        #[doc(hidden)]
         pub use self::$crate_name::*;
     };
 }
