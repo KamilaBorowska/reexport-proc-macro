@@ -3,6 +3,7 @@
 //! This allows for adding additional public items in addition to
 //! re-exported derives. This is unnecessary in Rust edition 2018,
 //! as it's possible to use `pub use` syntax for that purpose.
+//! However, this crate still exists for Rust versions before 1.31.
 
 #![no_std]
 
