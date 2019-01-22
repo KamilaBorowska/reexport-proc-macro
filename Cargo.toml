@@ -1,6 +1,6 @@
 [package]
 name = "reexport-proc-macro"
-version = "1.0.5"
+version = "1.0.6"
 authors = ["Konrad Borowski <github@borowski.pw>"]
 repository = "https://gitlab.com/KonradBorowski/reexport-proc-macro"
 license = "MIT/Apache-2.0"
