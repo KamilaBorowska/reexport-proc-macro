@@ -1,7 +1,8 @@
 //! A crate providing a macro to re-export a procedural macro.
 //!
 //! This allows for adding additional public items in addition to
-//! re-exported derives.
+//! re-exported derives. This is unnecessary in Rust edition 2018,
+//! as it's possible to use `pub use` syntax for that purpose.
 
 #![no_std]
 

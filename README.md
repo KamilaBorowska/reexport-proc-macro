@@ -1,6 +1,8 @@
 # `reexport-proc-macro`
 
 Allows re-exporting a procedural macro while adding additional public items.
+This is unnecessary in Rust edition 2018, as it's possible to use `pub use`
+syntax for that purpose.
 
 ## Examples
 
