@@ -12,7 +12,7 @@ readme = "README.md"
 
 [badges]
 gitlab = { repository = "KonradBorowski/reexport-proc-macro" }
-maintenance = { status = "actively-developed" }
+maintenance = { status = "deprecated" }
 
 [dev-dependencies]
 enum-map = "0.2.24"
